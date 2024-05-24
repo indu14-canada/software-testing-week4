@@ -1,6 +1,7 @@
 ﻿# software-testing-week4
-All team members have created main.go file in which they have printed their NAME and ID. 
-We  created  go.mod file by command  “ go mod init”.
-Then we created main.go file to print our name and ID. 
-Then we created  file hi.exe by command “go build -o hi.exe”
-Lastly we pushed the code to github repository. 
+Step 1: make folder with any namehttps:https://github.com/indu14-canada/software-testing-week4 
+Step 2: open folder in vscode
+Step 3: run command git clone ""
+Step 4: run command cd week4
+Step 5: run command "go run main.go"
+Step 6: run command ".\hi.exe"
